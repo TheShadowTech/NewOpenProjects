@@ -1,0 +1,2 @@
+# NewOpenProjects
+i used to be a small beginner in theme and tweak development in 2014 but i had to quit for personal reasons so now in 202 i decided to get back into it and start from ZERO because i forgot almost everything lol.. the purpose of this repository is to publish some of my finished/unfinished projects here and get help with them because i cant do them alone and if the project works i will credit the people who helped me and we can share the project or become a team :)
